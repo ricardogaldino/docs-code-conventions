@@ -1,2 +1,1 @@
-# docs-code-conventions
-Style Guide and Coding Conventions (Programming Language)
+# Style Guide and Coding Conventions (Programming Language)
